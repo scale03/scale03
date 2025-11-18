@@ -1,9 +1,12 @@
 <br>
 <div align="left">
   <pre>
-   ___   _              -  _               _        
+   ___   _              -  _               _                                         ___
             ____                    <i>Site Reliability Engineering</i>    -  _  
-                                                                                
+                                                                                   -             - 
+ <br> 
+ Learning :[ ⣯⣟⣽⣻⣮⣽⣻⣮⣽⣻⣮⣽⣻⣮⣽⣻⣮                                                                              ]
+ RUNNING...                                                                                
  </pre>
 </div>
 
