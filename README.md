@@ -10,7 +10,7 @@
  </pre>
 </div>
 
-Passionate about distributed systems and OSS.
+Passionate about distributed systems and OSS.   Currently focusing on observability and orchestration.
 I build tools from scratch in my [**Playground**](https://github.com/scale03/playground) to understand the internals.
 
 <br>
